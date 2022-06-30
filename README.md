@@ -1,0 +1,1 @@
+# gerador-da-sorte-app
